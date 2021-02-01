@@ -1,0 +1,74 @@
+body{
+  padding-top: 20px;
+}
+
+
+.container{
+   border: 5px solid black;
+   border-radius: 10px;
+   padding: 15px;
+   background-image: linear-gradient(to right top, #c1d16b, #84d48a, #3ed2b2, #00cad6, #27beeb, #42bef0, #57bff5, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+ 
+}
+
+.row{
+    margin-bottom: 2px solid black;
+   
+ 
+}
+
+.pages{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align:right;
+    font-weight: 500;
+    padding-top: 20px;
+    
+    
+    
+}
+
+.home{
+    padding: 50px;
+}
+
+.numdiv{
+    padding: 30px;
+    display: inline-block;
+    
+    
+}
+
+.line{
+    border-bottom: 2px solid black;
+    padding: 10px;
+    font-family:system-ui;
+    font-size: 17px;
+}
+
+.homestyle{
+    background-color: rgb(133, 207, 58);
+    color: black;
+    
+}
+
+.head{
+    font-weight: 500;
+    text-align:left;
+}
+
+.pagination{
+    padding-top: 10px;
+    
+}
+.page-link{
+    
+  color:white;
+  padding: 12px 16px;
+  text-decoration: none;
+  border-radius: 2.2px;
+  background-image: linear-gradient(to left bottom, #78e46a, #88de66, #65d7d1, #68cdd0);
+
+}
+
